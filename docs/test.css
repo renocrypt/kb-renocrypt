@@ -1,0 +1,35 @@
+<!-- .md-header__option {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-shrink: 0;
+    max-width: 100%;
+    transition: max-width 0ms .25s,opacity .25s .25s;
+    white-space: nowrap
+} -->
+
+<!-- .md-search__input {
+    background: #0000;
+    font-size: .9rem;
+    height: 100%;
+    position: relative;
+    text-overflow: ellipsis;
+    width: 90%;
+    z-index: 2
+} -->
+
+
+<!-- .md-header__button{
+  max-width: 1%;
+} -->
+
+<!-- .md-header {
+    background-color: var(--md-primary-fg-color);
+    box-shadow: 0 0 .2rem #0000,0 .2rem .4rem #0000;
+    color: var(--md-primary-bg-color);
+    display: block;
+    left: 0;
+    position: sticky;
+    right: 0;
+    top: 0;
+    z-index: 4
+} -->
